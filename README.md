@@ -193,18 +193,20 @@ plt.show()
 
 # OUTPUT
 ## Impulse sampling output:
-[image](https://github.com/user-attachments/assets/a1cb0c3f-9b64-45b8-a7d9-25d3b6d7f376)
-[image](https://github.com/user-attachments/assets/183ae87c-2dda-42e8-b0d7-74a2a82f709a)
-[image](https://github.com/user-attachments/assets/b4b3dc3b-8857-47d6-a249-a9882807092f)
+[Screenshot 2025-04-09 210326](https://github.com/user-attachments/assets/48e53de1-89c9-4f69-9f14-965f7dcc2261)
+
+[Screenshot 2025-04-09 212237](https://github.com/user-attachments/assets/a089b051-5b16-4abf-8d44-76d546be46a9)
+
+[Screenshot 2025-04-09 212404](https://github.com/user-attachments/assets/a0e2c136-a5ba-4fc7-a70c-b09df2cac3c1)
 
 
 ## Natural sampling output:
-[image](https://github.com/user-attachments/assets/7de23bfa-f0d0-48d2-ae5c-dcf6bc3b1bbc)
+[Screenshot 2025-04-09 212635](https://github.com/user-attachments/assets/1709b8ca-970e-448b-8126-da6176672c58)
+
 
 
 ## Flattop sampling output:
-[image](https://github.com/user-attachments/assets/b618500f-5aeb-448a-a1db-80b149f58952)
-
+[Screenshot 2025-04-09 212806](https://github.com/user-attachments/assets/c1ea370f-945c-4130-9327-4d2c7f804e66)
 
 
 
